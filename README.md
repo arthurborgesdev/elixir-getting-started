@@ -2,6 +2,8 @@
 
 > This is a repo for documenting my learning progress of Elixir
 
+Commit messages are written in the simple past, like a journal: e.g.: "Learned about modules and sigils" 
+
 ## Built With
 
 - Elixir
