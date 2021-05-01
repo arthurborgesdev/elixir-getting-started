@@ -1,40 +1,26 @@
+![](https://img.shields.io/badge/Tutorials%20And%20Experiments-blue)
+
 # Getting started with Elixir
 
-> This is a repo for documenting my learning progress of Elixir
+> This is a repo for documenting my learning progress of Elixir. It contains lots of experiments, from Elixir School, Elixir website and other sources.
 
 Commit messages are written in the simple past, like a journal: e.g.: "Learned about modules and sigils" 
 
 ## Built With
 
+- Git
+- Github
+- VSCode
 - Elixir
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
 
 ## Getting Started
 
 Simple run any script with `elixir script_name.exs`
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Arthur Borges**
 
 - GitHub: [@arthurborgesdev](https://github.com/arthurborgesdev)
 - Twitter: [@arthurmoises](https://twitter.com/arthurmoises)
 - LinkedIn: [Arthur Borges](https://linkedin.com/in/arthurmoises)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/arthurborgesdev/elixir-getting-started/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-MIT
